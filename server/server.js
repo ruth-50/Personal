@@ -12,6 +12,7 @@ app.get('/',  (req, res)=> {
   ]
 
 res.send(personal)
+res.end()
 })
  
 app.listen(port, ()=>{
