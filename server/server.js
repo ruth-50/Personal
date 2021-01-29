@@ -8,6 +8,7 @@ app.get('/',  (req, res)=> {
       apellido: 'Pit',
       profecion: 'podologo',
       edad: 60,
+      jobi: 'coleccionar muñecas barbi'
     }
   ]
 
